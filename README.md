@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Samiksha Anil Wagrekar</h1>
 <h3 align="center">A passionate mern stack developer from India</h3>
-<img align="right" alt="Coding" width="400" src="https://cdn.eduonix.com/assets/images/header_img/2020070614343212024.png">
+<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1019864/screenshots/3079099/codeloop.gif">
 
 - 🔭 I’m currently working on **ChitGem**
 
